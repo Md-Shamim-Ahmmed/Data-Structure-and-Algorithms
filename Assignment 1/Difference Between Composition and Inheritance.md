@@ -14,7 +14,7 @@ object ```composition``` is a better reuse model than class ```inheritance```.<b
 
 ##### This article compares the two approaches, <br>
 <p align = "center">
-<img src = "images/Difference-Between-Composition-vs-Inheritance.png" width = "749" height = "600"/>
+<img src = "https://github.com/Md-Shamim-Ahmmed/Data-Structure-and-Algorithms/blob/master/images/Difference-Between-Composition-vs-Inheritance.png" width = "749" height = "600"/>
 </p>
 
 ## What is Inheritance?<br>
@@ -28,7 +28,7 @@ are created from existing classes. Class inheritance also makes it easier to mod
 But class inheritance has some downsides to it too. First, because inheritance is defined at compile-time, <br>
 you cannot change the implementations inherited from parent classes at run-time.<br>
 <p align = "center">
-<img src = "images/Difference-Between-Composition-and-Inheritance.png" width = "500" height = "179"/>
+<img src = "https://github.com/Md-Shamim-Ahmmed/Data-Structure-and-Algorithms/blob/master/images/Difference-Between-Composition-and-Inheritance.png" width = "500" height = "179"/>
 </p><br>
 
 ## What is Composition?<br>
@@ -71,7 +71,7 @@ other objects. <br>
 And because objects are accessed solely through their interfaces, it won’t break encapsulation.<br>
 Any object can be replaced at run-time by another object as long as it has the same type.<br><br>
 <p align = "center">
-<img src = "images/Difference-Between-Composition-and-Inheritance-.png" width = "700" height = "637"/>
+<img src = "https://github.com/Md-Shamim-Ahmmed/Data-Structure-and-Algorithms/blob/master/images/Difference-Between-Composition-and-Inheritance-.png" width = "700" height = "637"/>
 </p><br>
 
 ## Summary of Composition vs. Inheritance<br>
